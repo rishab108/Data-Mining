@@ -1,0 +1,91 @@
+{
+  "algorithm": "K-Means",
+  "WSSE": 235.58410005824203,
+  "clusters": [
+    {
+      "id": 1,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "life",
+        "books",
+        "well",
+        "people",
+        "fantastic",
+        "gifts",
+        "cute",
+        "literally",
+        "openers",
+        "paper"
+      ]
+    },
+    {
+      "id": 2,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "business",
+        "service",
+        "great",
+        "infront",
+        "chooses",
+        "fast",
+        "accommodating",
+        "restraunt",
+        "products",
+        "proud"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 994,
+      "error": 235.13451951744617,
+      "terms": [
+        "like",
+        "place",
+        "good",
+        "food",
+        "one",
+        "time",
+        "get",
+        "great",
+        "would",
+        "back"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "good",
+        "shrimp",
+        "sides",
+        "pork",
+        "crab",
+        "pulled",
+        "several",
+        "generous",
+        "fish",
+        "daughter"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 3,
+      "error": 0.44958054079587395,
+      "terms": [
+        "mi",
+        "banh",
+        "sandwiches",
+        "amazing",
+        "set",
+        "get",
+        "food",
+        "rather",
+        "go",
+        "included"
+      ]
+    }
+  ]
+}

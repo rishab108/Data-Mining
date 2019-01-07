@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="untitled:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecba722a-65ac-4090-9b10-f0c8ab85cd37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/artifacts/Rishab_Kumar_SON_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_carrotsearch_hppc_0_7_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_7_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_github_luben_zstd_jni_1_3_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_google_code_gson_gson_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_google_guava_guava_11_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_jamesmurty_utils_java_xmlbuilder_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_twitter_chill_java_0_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_univocity_univocity_parsers_2_5_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__com_vlkan_flatbuffers_1_2_0_3f79e055_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_codec_commons_codec_1_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_collections_commons_collections_3_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_lang_commons_lang_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__io_airlift_aircompressor_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__io_netty_netty_3_9_9_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__io_netty_netty_all_4_1_17_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_activation_activation_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__javax_xml_stream_stax_api_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__net_iharder_base64_2_3_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_9_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_arrow_arrow_format_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_arrow_arrow_memory_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_arrow_arrow_vector_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_curator_curator_client_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_curator_curator_framework_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_directory_api_api_asn1_api_1_0_0_M20_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_directory_api_api_util_1_0_0_M20_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_directory_server_apacheds_i18n_2_0_0_M15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_orc_orc_core_1_4_4_nohive_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_4_4_nohive_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_kvstore_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_bouncycastle_bcprov_jdk15on_1_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_codehaus_jettison_jettison_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_htrace_htrace_core_3_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_lz4_lz4_java_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_scala_lang_scalap_2_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__xerces_xercesImpl_2_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/modules/hw3-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/main/scala/Rishab_Kumar_SON.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/untitled_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Task1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Task2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/.idea/modules/hw2-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/.idea/modules/hw2-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/.idea/modules/hw2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/.idea/modules/hw2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$14faf19aeea9dfcd663c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$14faf19aeea9dfcd663c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$14faf19aeea9dfcd663c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$1802c33369c282167734$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$1802c33369c282167734.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$1802c33369c282167734.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$58d9c88c7e8bbd5718c0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$58d9c88c7e8bbd5718c0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$58d9c88c7e8bbd5718c0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$902b842d1bb21f6c6623$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$902b842d1bb21f6c6623.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$902b842d1bb21f6c6623.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$a093c36c65eba520bd9c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$a093c36c65eba520bd9c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$a093c36c65eba520bd9c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$deba42a1364cbadc9d80$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$deba42a1364cbadc9d80.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/config-classes/$deba42a1364cbadc9d80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/main/Rishab_Kumar_ItemBasedCF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/main/Rishab_Kumar_ModelBasedCF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/main/scala/Rishab_Kumar_ItemBasedCF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/src/main/scala/Rishab_Kumar_ItemBasedCF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/main/scala/Rishab_Kumar_ModelBasedCF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/src/main/scala/Rishab_Kumar_ModelBasedCF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ItemBasedCF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ItemBasedCF$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$$anonfun$main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/classes/Rishab_Kumar_ModelBasedCF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/default/hw2$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/default/hw2$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/default/hw2$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/default/hw2$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/scala-2.11/resolution-cache/reports/default-hw2$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1202543612">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="60" />
+          <entry key="sbt" value="2" />
+          <entry key="scala" value="15" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="60" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scala" value="15" />
+          <entry key="sbt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="sbt" value="4" />
+          <entry key="scala" value="10830" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Scala" value="10830" />
+          <entry key="sbt" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Task2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="169" column="21" selection-start-line="169" selection-start-column="21" selection-end-line="169" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>19</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/Problem1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Problem2.scala" />
+        <option value="$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_K_5_20.json" />
+        <option value="$PROJECT_DIR$/Data/Rishab_Kumar_KMeans_small_T_8_20.json" />
+        <option value="$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_K_8_20.json" />
+        <option value="$PROJECT_DIR$/src/main/scala/Task1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Task2.scala" />
+        <option value="$PROJECT_DIR$/dharmik/1.json" />
+        <option value="$PROJECT_DIR$/dharmik/2.json" />
+        <option value="$PROJECT_DIR$/dharmik/3.json" />
+        <option value="$PROJECT_DIR$/dharmik/4.json" />
+        <option value="$PROJECT_DIR$/rishab/1.json" />
+        <option value="$PROJECT_DIR$/rishab/2.json" />
+        <option value="$PROJECT_DIR$/rishab/3.json" />
+        <option value="$PROJECT_DIR$/rishab/4.json" />
+        <option value="$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_k_8_20.json" />
+        <option value="$PROJECT_DIR$/Data/Rishab_Kumar_KMeans_small_W_5_20.json" />
+        <option value="$PROJECT_DIR$/Data/Rishab_Kumar_KMeans_small_T_5_20.json" />
+        <option value="$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_B_8_20.json" />
+        <option value="$PROJECT_DIR$/Rishab_Kumar_Cluster_small_K_8_20.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542331954231" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <module name="untitled" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/Data/yelp_reviews_clustering_small.txt&quot; &quot;T&quot; &quot;5&quot; &quot;20&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="untitled" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/Data/yelp_reviews_clustering_small.txt&quot; &quot;K&quot; &quot;8&quot; &quot;20&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="untitled" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="hw4 [file:/Users/rishabkumar/Desktop/DM/dataminingprojects/DataMining/HW4/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hw4-build [file:/Users/rishabkumar/Desktop/DM/dataminingprojects/DataMining/HW4/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3360053417" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2125951362" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecba722a-65ac-4090-9b10-f0c8ab85cd37" name="Default Changelist" comment="" />
+      <created>1541655966173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541655966173</updated>
+      <workItem from="1541655967560" duration="702000" />
+      <workItem from="1541835816379" duration="37030000" />
+      <workItem from="1541996405998" duration="8402000" />
+      <workItem from="1542024503381" duration="477000" />
+      <workItem from="1542067895878" duration="12000" />
+      <workItem from="1542082310507" duration="1611000" />
+      <workItem from="1542256504710" duration="1496000" />
+      <workItem from="1542272582806" duration="3170000" />
+      <workItem from="1542331284124" duration="439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53339000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26609442" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Run" order="0" weight="0.38340485" />
+      <window_info anchor="right" id="Bean Validation" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="sbt" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data/yelp_reviews_clustering_small.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW3/src/main/scala/Rishab_Kumar_SON.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW2/src/main/scala/Rishab_Kumar_ItemBasedCF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_KMeans_small_W_5_5.json" />
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_G_8_20.json" />
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_K_5_20.json" />
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_KMeans_small_T_8_20.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Task1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="196" column="28" selection-start-line="196" selection-start-column="28" selection-end-line="196" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dharmik/2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dharmik/3.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dharmik/4.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rishab/4.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rishab/2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rishab/3.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rishab/1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dharmik/1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_KMeans_small_W_5_20.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_KMeans_small_T_5_20.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_K_8_20.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-687">
+          <caret line="49" column="15" lean-forward="true" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Rishab_Kumar_Cluster_small_B_8_20.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1093">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rishab_Kumar_Cluster_small_K_8_20.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Task2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="169" column="21" selection-start-line="169" selection-start-column="21" selection-end-line="169" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>untitled:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hw4-build</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: aopalliance:aopalliance:1.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

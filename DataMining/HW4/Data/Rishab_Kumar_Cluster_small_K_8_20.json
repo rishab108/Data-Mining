@@ -1,0 +1,142 @@
+{
+  "algorithm": "K-Means",
+  "WSSE": 234.2343434327785,
+  "clusters": [
+    {
+      "id": 1,
+      "size": 932,
+      "error": 220.23699942277185,
+      "terms": [
+        "like",
+        "place",
+        "good",
+        "food",
+        "one",
+        "time",
+        "get",
+        "great",
+        "would",
+        "back"
+      ]
+    },
+    {
+      "id": 6,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "cream",
+        "ice",
+        "two",
+        "chocolate",
+        "dont",
+        "dark",
+        "waffle",
+        "place",
+        "cone",
+        "tasting"
+      ]
+    },
+    {
+      "id": 2,
+      "size": 26,
+      "error": 5.7658230859610216,
+      "terms": [
+        "tea",
+        "good",
+        "tuna",
+        "place",
+        "like",
+        "food",
+        "time",
+        "sushi",
+        "great",
+        "menu"
+      ]
+    },
+    {
+      "id": 7,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "mike",
+        "properties",
+        "property",
+        "years",
+        "use",
+        "brother",
+        "renovated",
+        "recommend",
+        "communicates",
+        "handled"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 37,
+      "error": 8.231520924045633,
+      "terms": [
+        "sushi",
+        "fish",
+        "rolls",
+        "like",
+        "place",
+        "roll",
+        "food",
+        "great",
+        "one",
+        "go"
+      ]
+    },
+    {
+      "id": 8,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "vape",
+        "eastern",
+        "tasting",
+        "ebv",
+        "working",
+        "bloc",
+        "youre",
+        "tips",
+        "concept",
+        "counter"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "help",
+        "daughter",
+        "school",
+        "clothes",
+        "work",
+        "wallet",
+        "style",
+        "sizing",
+        "pricing",
+        "little"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 1,
+      "error": 0.0,
+      "terms": [
+        "lunch",
+        "thai",
+        "location",
+        "chirashi",
+        "good",
+        "12",
+        "special",
+        "enjoyed",
+        "pad",
+        "meal"
+      ]
+    }
+  ]
+}

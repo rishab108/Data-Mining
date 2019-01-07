@@ -1,0 +1,142 @@
+{
+  "algorithm": "Bisecting K-Means",
+  "WSSE": 234.00357509841797,
+  "clusters": [
+    {
+      "id": 1,
+      "size": 141,
+      "error": 26.284689265627502,
+      "terms": [
+        "food",
+        "good",
+        "place",
+        "time",
+        "service",
+        "like",
+        "great",
+        "get",
+        "one",
+        "us"
+      ]
+    },
+    {
+      "id": 6,
+      "size": 105,
+      "error": 28.820942204350466,
+      "terms": [
+        "would",
+        "back",
+        "like",
+        "one",
+        "time",
+        "even",
+        "get",
+        "great",
+        "never",
+        "day"
+      ]
+    },
+    {
+      "id": 2,
+      "size": 137,
+      "error": 27.44245620948694,
+      "terms": [
+        "food",
+        "good",
+        "place",
+        "time",
+        "restaurant",
+        "one",
+        "us",
+        "order",
+        "like",
+        "go"
+      ]
+    },
+    {
+      "id": 7,
+      "size": 94,
+      "error": 28.65497215005579,
+      "terms": [
+        "get",
+        "us",
+        "would",
+        "back",
+        "like",
+        "time",
+        "go",
+        "one",
+        "great",
+        "told"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 160,
+      "error": 32.82442628574242,
+      "terms": [
+        "place",
+        "like",
+        "good",
+        "great",
+        "food",
+        "coffee",
+        "really",
+        "also",
+        "one",
+        "get"
+      ]
+    },
+    {
+      "id": 8,
+      "size": 76,
+      "error": 26.55249952551422,
+      "terms": [
+        "get",
+        "like",
+        "also",
+        "great",
+        "love",
+        "one",
+        "time",
+        "go",
+        "back",
+        "would"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 175,
+      "error": 36.75832592957498,
+      "terms": [
+        "like",
+        "good",
+        "one",
+        "food",
+        "place",
+        "menu",
+        "great",
+        "would",
+        "also",
+        "little"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 112,
+      "error": 26.665263528065623,
+      "terms": [
+        "would",
+        "get",
+        "time",
+        "back",
+        "place",
+        "said",
+        "like",
+        "one",
+        "room",
+        "even"
+      ]
+    }
+  ]
+}
